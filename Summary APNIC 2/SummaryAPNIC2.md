@@ -1,4 +1,4 @@
-**Laporan Praktikum Keamanan Jaringan** 
+<div align="center">**Laporan Praktikum Keamanan Jaringan** 
 
 **CYBER SECURITY IN THE ORGANIZATION** 
 
@@ -13,6 +13,7 @@ LJ D4 Teknik Informatika B
 **POLITEKNIK ELEKTRONIKA NEGERI SURABAYA TAHUN AJARAN 2022/2023** 
 
 **APNIC MODULE 2: CYBER SECURITY IN THE ORGANIZATION**
+<div>
 
 **Mengapa Organisasi Membutuhkan Sistem Keamanan?**
 Setiap organisasi membutuhkan sistem keamanan jaringan dikarenakan adanya ancaman yang mengeksploitasi kerentanan dapat membahayakan atau mengganggu aktivitas bisnis.
