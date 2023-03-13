@@ -19,9 +19,11 @@ LJ D4 Teknik Informatika B
 </div>
 
 **Mengapa Organisasi Membutuhkan Sistem Keamanan?**
+
 Setiap organisasi membutuhkan sistem keamanan jaringan dikarenakan adanya ancaman yang mengeksploitasi kerentanan dapat membahayakan atau mengganggu aktivitas bisnis.
 
 **Jenis-Jenis Dampak Sistem Keamanan pada Bisnis**
+
 1.	Operasi bisnis terganggu karena masalah terkait pemasok, kerusakan infrastruktur, dll. 
 Contohnya : Server database mati karena serangan DDoS
 
@@ -35,6 +37,7 @@ Contohonya : Bisnis didenda oleh otoritas lokal karena pelanggaran informasi pel
 Contohnya : Terdapat insiden yang menyebabkan customer menganggap bahwa org tidak serius dalam melindungi informasi customer
 
 **Managing Risks**
+
 Setiap organisasi harus mengidentifikasi dan memanajemen risiko yang dapat menganggu aktivitas mereka. Ketika teridentifikasi adanya risiko, organisasi memiliki dua pilihan, yaitu :
 1.	Migrate
 Memigrasi atau mengurangi risiko dengan menerapkan kontrol keamanan jaringan.
@@ -43,6 +46,7 @@ Memigrasi atau mengurangi risiko dengan menerapkan kontrol keamanan jaringan.
 Memindahkan risikonya sehingga risiko tersebut dapat ditangani oleh entitas lain. Contohnya : insurance.
 
 **Meningkatkan Kesiapan Keamanan Jaringan**
+
 1.	Pendekatan manajemen risiko yang komprehensif harus melibatkan orang-orang di seluruh organisasi untuk meningkatkan kualitas pengambilan keputusan untuk mengelola risiko.
 2.	Manajemen puncak organisasi bertanggung jawab untuk memastikan keamanan organisasi.
 3.	Menyadari tingkat dan kemungkinan risiko memungkinkan organisasi menjadi lebih proaktif dan siap.
@@ -50,6 +54,7 @@ Memindahkan risikonya sehingga risiko tersebut dapat ditangani oleh entitas lain
 
 
 **Ancaman Keamanan Jaringan terhadap Organisasi yang Paling Sering Ditemui**
+
 1.	Denial of Service Attack
 Pada dasarnya, serangan DoS dilakukan melalui jaringan. Salah satu tekniknya adalah dengan mengirimkan banyak paket jaringan, lebih dari apa yang dapat diproses oleh server atau peralatan jaringan. Organisasi yang memiliki layanan yang terhubung ke internet seperti situs web, DNS, dan server surat, rentan terhadap serangan ini.
 
@@ -72,6 +77,7 @@ Cara untuk membawa serangan pencurian identitas :
 Organisasi memiliki situs web untuk memberikan informasi dan layanan kepada pelanggan mereka. Kerusakan web terjadi ketika konten situs web dimodifikasi oleh penyerang. Itu dapat terjadi karena kerentanan pada perangkat lunak server web atau sistem manajemen konten. Ini dapat menyebabkan tidak tersedianya layanan atau dapat mempengaruhi reputasi organisasi.
 
 **Bagaimana Cara untuk Mitigate Risiko Cyber Attack**
+
 - Teknikal kontrol untuk mendeteksi dan mencegah 
 Seperti memasang firewalls, spam filters, intrusion system detection, dan antivirus software.
 - Edukasi dan pelatihan karyawan 
