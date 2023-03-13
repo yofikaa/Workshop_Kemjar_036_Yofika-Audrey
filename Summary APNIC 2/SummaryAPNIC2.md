@@ -16,7 +16,7 @@ LJ D4 Teknik Informatika B
 
 **APNIC MODULE 2: CYBER SECURITY IN THE ORGANIZATION**
 
-<div>
+</div>
 
 **Mengapa Organisasi Membutuhkan Sistem Keamanan?**
 Setiap organisasi membutuhkan sistem keamanan jaringan dikarenakan adanya ancaman yang mengeksploitasi kerentanan dapat membahayakan atau mengganggu aktivitas bisnis.
