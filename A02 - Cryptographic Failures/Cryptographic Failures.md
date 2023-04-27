@@ -43,5 +43,14 @@ Challenge nested easter egg bertujuan untuk menemukan pesan tersembunyi yang tel
 
 
 <h2><b>B. Weird Crypto</b></h2>
+Challenge weird crypto bertujuan untuk memberi tahu aplikasi tentang algoritma atau library enkripsi yang seharusnya tidak digunakan.
+1. Buka halaman customer feedback pada aplikasi juice shop yang terdapat di navbar
 
+<img src="img/9.png">
+<img src="img/10.png">
 
+2. Masukkan MD5 pada kolom komentar lalu beri rating dan isi captcha setelah itu submit maka challenge weird crypto akan selesai
+
+<img src="img/11.png">
+
+Tujuan dari challange Weird Crypto ini adalah kita sudah harus tau algoritma atau library enkripsi apa yang sebaiknya kita gunakan dan yang sudah harus kita tinggalkan. Salah satu contoh algoritma yang sebaiknya sudah ditinggalkan adalah MD5.
