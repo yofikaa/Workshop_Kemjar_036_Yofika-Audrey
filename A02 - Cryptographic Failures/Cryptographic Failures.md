@@ -1,5 +1,5 @@
 <h1>Praktikum Keamanan Jaringan 
-A2 Cryptogaphic Failures (OWASP 10 Juice Shop)</h1>
+A2 Cryptogaphic Failures</h1>
 
 <img src="img/logo_pens.png">
 
@@ -12,7 +12,9 @@ LJ D4 Teknik Informatika B
 TAHUN AJARAN 2022/2023</b>
 
 <h2><b>A. Nested Easter Egg</b></h2>
+
 Challenge nested easter egg bertujuan untuk menemukan pesan tersembunyi yang telah disisipkan kedalam website
+
 1. Buka aplikasi juice shop lalu menuju navbar, klik halaman github yang tersedia
 
 <img src="img/1.png">
