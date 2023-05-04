@@ -49,3 +49,23 @@ Dalam convergence of ITC, teknologi informasi digunakan untuk mengelola, mempros
 Dalam bisnis, convergence of ITC dapat memudahkan integrasi sistem informasi dan komunikasi yang lebih efektif, meningkatkan kolaborasi dan koordinasi antar departemen dan karyawan, serta meningkatkan kecepatan dan efisiensi dalam melakukan bisnis. Hal ini juga dapat memungkinkan perusahaan untuk merespon perubahan pasar dan kebutuhan pelanggan dengan lebih cepat dan efektif.
 
 Namun, dengan semakin terintegrasi dan bersatunya teknologi informasi dan komunikasi, muncul juga tantangan baru terkait dengan keamanan informasi dan privasi. Oleh karena itu, perusahaan perlu memperhatikan keamanan dan privasi dalam mengimplementasikan convergence of ITC.
+
+BSSN (Badan Siber dan Sandi Negara) adalah lembaga pemerintah Indonesia yang bertanggung jawab untuk memastikan keamanan siber negara dan menjaga keamanan informasi pemerintah. Berikut adalah beberapa bagian dalam struktur organisasi BSSN:
+
+1. Kepala BSSN: Menjadi pimpinan tertinggi di BSSN, bertanggung jawab atas pengelolaan dan pengendalian operasional BSSN.
+
+2. Wakil Kepala BSSN: Membantu Kepala BSSN dalam menjalankan tugas dan fungsinya, serta menggantikan Kepala BSSN dalam hal Kepala BSSN tidak dapat melaksanakan tugas dan fungsinya.
+
+3. Sekretariat Jenderal: Memfasilitasi koordinasi antara unit-unit organisasi di BSSN dan menjalankan tugas administratif lainnya untuk mendukung tugas-tugas BSSN.
+
+4. Deputi Bidang Pengamanan: Bertanggung jawab untuk merancang, mengembangkan, dan melaksanakan kebijakan dan program untuk menjaga keamanan siber negara dan melindungi informasi pemerintah.
+
+5. Deputi Bidang Pencegahan dan Penanganan Insiden: Bertanggung jawab untuk merancang, mengembangkan, dan melaksanakan kebijakan dan program untuk mencegah dan menangani insiden siber.
+
+6. Deputi Bidang Penyelidikan dan Penindakan: Bertanggung jawab untuk merancang, mengembangkan, dan melaksanakan kebijakan dan program untuk melakukan penyelidikan dan penindakan terhadap kejahatan siber.
+
+7. Deputi Bidang Pengawasan dan Penegakan Hukum: Bertanggung jawab untuk merancang, mengembangkan, dan melaksanakan kebijakan dan program untuk melakukan pengawasan dan penegakan hukum terkait dengan keamanan siber.
+
+8. Inspektorat Utama: Bertanggung jawab untuk melaksanakan fungsi pengawasan internal di BSSN.
+
+9. Pusat Keamanan Siber Nasional (Puskemas): Bertanggung jawab untuk mengembangkan dan mengoperasikan sistem keamanan siber nasional serta memantau dan memproses informasi tentang ancaman keamanan siber nasional.
