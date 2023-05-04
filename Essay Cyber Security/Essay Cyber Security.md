@@ -41,3 +41,11 @@ Sementara itu, sektor strategis adalah sektor yang dianggap sangat penting untuk
 Dalam konteks keamanan siber, sektor vital dan sektor strategis keduanya sangat penting. Sebagai contoh, keamanan siber dalam sistem perbankan dan sistem kesehatan dianggap vital karena terkait dengan informasi pribadi dan finansial klien. Sedangkan keamanan siber dalam sektor teknologi pertahanan dan keamanan siber dianggap strategis karena dapat membantu melindungi negara dari serangan siber yang dapat mengancam keamanan nasional.
 
 Maka dari itu, sektor vital dan sektor strategis dalam IT keduanya sama-sama penting dan perlu diperhatikan dalam pengembangan dan keamanannya.
+
+Convergence of ITC (Information Technology and Communication) adalah fenomena dimana teknologi informasi dan komunikasi semakin terintegrasi dan bersatu menjadi satu kesatuan yang tidak terpisahkan. Dalam konsep ini, teknologi informasi dan teknologi komunikasi dipandang sebagai dua sisi dari satu kesatuan yang sama, yang saling mendukung dan melengkapi.
+
+Dalam convergence of ITC, teknologi informasi digunakan untuk mengelola, memproses, dan menyimpan data, sementara teknologi komunikasi digunakan untuk mengirimkan data secara cepat dan efisien. Contohnya adalah penggunaan internet dan telepon seluler yang memungkinkan kita untuk mengakses informasi dan berkomunikasi dengan mudah dari mana saja dan kapan saja.
+
+Dalam bisnis, convergence of ITC dapat memudahkan integrasi sistem informasi dan komunikasi yang lebih efektif, meningkatkan kolaborasi dan koordinasi antar departemen dan karyawan, serta meningkatkan kecepatan dan efisiensi dalam melakukan bisnis. Hal ini juga dapat memungkinkan perusahaan untuk merespon perubahan pasar dan kebutuhan pelanggan dengan lebih cepat dan efektif.
+
+Namun, dengan semakin terintegrasi dan bersatunya teknologi informasi dan komunikasi, muncul juga tantangan baru terkait dengan keamanan informasi dan privasi. Oleh karena itu, perusahaan perlu memperhatikan keamanan dan privasi dalam mengimplementasikan convergence of ITC.
