@@ -1,5 +1,6 @@
-<h1>Praktikum Keamanan Jaringan 
-A5 Security Misconfiguration</h1>
+<h1>Tugas Keamanan Jaringan </h1>
+
+<h2>Essay Profesi pada bidang Cyber Security</h2>
 
 <img src="logo_pens.png">
 
