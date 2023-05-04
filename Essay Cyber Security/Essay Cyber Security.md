@@ -1,4 +1,4 @@
-<center><h1>Tugas Keamanan Jaringan</h1>
+<p text-align="center"><h1>Tugas Keamanan Jaringan</h1>
 
 <h2>Essay Cyber Security</h2>
 
@@ -9,7 +9,7 @@ Oleh : <br>
 Yofika Audrey Tisnawati <br>
 3122640036 <br>
 LJ D4 Teknik Informatika B
-</center>
+</p>
 Pada awalnya, IT hanya digunakan sebagai alat bantu administrasi dan pengolahan data, seperti untuk membuat laporan keuangan dan manajemen inventaris. Namun, seiring waktu, perusahaan menyadari potensi bisnis yang bisa dihasilkan dari teknologi dan mulai menginvestasikan lebih banyak dalam IT untuk mempercepat proses bisnis, meningkatkan efisiensi, dan meningkatkan kualitas produk atau layanan yang ditawarkan.
 
 Dengan semakin banyaknya perusahaan yang mengandalkan teknologi untuk mempercepat bisnis, maka IT tidak hanya menjadi support, tetapi juga menjadi bagian yang sangat penting dari strategi bisnis perusahaan. IT membantu perusahaan dalam mengambil keputusan bisnis yang lebih tepat waktu dan akurat, mempercepat inovasi produk dan layanan, dan membantu dalam memperkuat keamanan informasi perusahaan.
