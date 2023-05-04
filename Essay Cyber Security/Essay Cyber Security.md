@@ -1,4 +1,4 @@
-<p text-align="center"><h1>Tugas Keamanan Jaringan</h1>
+<h1>Tugas Keamanan Jaringan</h1>
 
 <h2>Essay Cyber Security</h2>
 
@@ -9,7 +9,7 @@ Oleh : <br>
 Yofika Audrey Tisnawati <br>
 3122640036 <br>
 LJ D4 Teknik Informatika B
-</p>
+
 Pada awalnya, IT hanya digunakan sebagai alat bantu administrasi dan pengolahan data, seperti untuk membuat laporan keuangan dan manajemen inventaris. Namun, seiring waktu, perusahaan menyadari potensi bisnis yang bisa dihasilkan dari teknologi dan mulai menginvestasikan lebih banyak dalam IT untuk mempercepat proses bisnis, meningkatkan efisiensi, dan meningkatkan kualitas produk atau layanan yang ditawarkan.
 
 Dengan semakin banyaknya perusahaan yang mengandalkan teknologi untuk mempercepat bisnis, maka IT tidak hanya menjadi support, tetapi juga menjadi bagian yang sangat penting dari strategi bisnis perusahaan. IT membantu perusahaan dalam mengambil keputusan bisnis yang lebih tepat waktu dan akurat, mempercepat inovasi produk dan layanan, dan membantu dalam memperkuat keamanan informasi perusahaan.
@@ -28,3 +28,16 @@ Sektor vital adalah sektor yang jika terganggu atau mengalami kegagalan, dapat m
 
 4. Sistem energi: Dapat menyebabkan pemadaman listrik dan kegagalan infrastruktur energi.
 
+Sementara itu, sektor strategis adalah sektor yang dianggap sangat penting untuk kemajuan ekonomi dan keamanan nasional. Contoh sektor strategis dalam IT termasuk teknologi pertahanan, keamanan siber, dan pengembangan teknologi masa depan seperti AI, big data, dan teknologi blockchain. Sektor strategis ini biasanya dilindungi dan didukung oleh pemerintah dan diberikan anggaran yang cukup untuk pengembangan dan keamanannya.
+
+1. Teknologi pertahanan: Pengembangan teknologi pertahanan yang kuat dapat membantu melindungi negara dari ancaman luar yang mungkin datang dari negara lain.
+
+2. Keamanan siber: Pengembangan keamanan siber yang kuat dapat membantu melindungi sistem dan data penting dari serangan siber yang dapat mengancam keamanan nasional.
+
+3. Pengembangan teknologi masa depan: Pengembangan teknologi seperti AI, big data, dan teknologi blockchain dapat membantu meningkatkan efisiensi bisnis dan pelayanan publik, serta meningkatkan daya saing negara dalam hal inovasi dan teknologi.
+
+4. Sistem komunikasi: Sistem komunikasi yang kuat dan aman sangat penting untuk keberlangsungan bisnis dan keamanan nasional, serta berperan penting dalam hal berkomunikasi dan bertukar informasi secara efektif.
+
+Dalam konteks keamanan siber, sektor vital dan sektor strategis keduanya sangat penting. Sebagai contoh, keamanan siber dalam sistem perbankan dan sistem kesehatan dianggap vital karena terkait dengan informasi pribadi dan finansial klien. Sedangkan keamanan siber dalam sektor teknologi pertahanan dan keamanan siber dianggap strategis karena dapat membantu melindungi negara dari serangan siber yang dapat mengancam keamanan nasional.
+
+Maka dari itu, sektor vital dan sektor strategis dalam IT keduanya sama-sama penting dan perlu diperhatikan dalam pengembangan dan keamanannya.
