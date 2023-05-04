@@ -69,3 +69,23 @@ BSSN (Badan Siber dan Sandi Negara) adalah lembaga pemerintah Indonesia yang ber
 8. Inspektorat Utama: Bertanggung jawab untuk melaksanakan fungsi pengawasan internal di BSSN.
 
 9. Pusat Keamanan Siber Nasional (Puskemas): Bertanggung jawab untuk mengembangkan dan mengoperasikan sistem keamanan siber nasional serta memantau dan memproses informasi tentang ancaman keamanan siber nasional.
+
+Direktorat Keamanan Informasi (Kominfo) adalah unit kerja di bawah Kementerian Komunikasi dan Informatika Indonesia yang bertanggung jawab untuk menjaga keamanan informasi di Indonesia. Beberapa tugas dan fungsi dari Direktorat Keamanan Informasi Kemenkominfo meliputi:
+
+1. Mengembangkan dan menyusun kebijakan dan standar keamanan informasi.
+
+2. Melakukan pengawasan terhadap implementasi kebijakan dan standar keamanan informasi di seluruh instansi pemerintah dan sektor swasta.
+
+3. Melakukan koordinasi dengan lembaga pemerintah dan swasta lainnya untuk meningkatkan keamanan informasi.
+
+4. Melakukan identifikasi dan analisis terhadap potensi ancaman keamanan informasi.
+
+5. Melakukan pengembangan dan pemeliharaan sistem keamanan informasi nasional.
+
+6. Melakukan sosialisasi dan edukasi tentang pentingnya keamanan informasi kepada masyarakat.
+
+7. Menangani insiden keamanan informasi dan melakukan investigasi atas insiden tersebut.
+
+8. Melakukan pengembangan dan pemantauan terhadap teknologi keamanan informasi terbaru.
+
+Direktorat Keamanan Informasi Kemenkominfo juga bekerja sama dengan berbagai lembaga nasional dan internasional untuk meningkatkan keamanan informasi di Indonesia, seperti Kepolisian, BSSN, CERT, dan organisasi internasional seperti ITU dan APEC. Melalui tugas dan fungsinya, Direktorat Keamanan Informasi Kemenkominfo diharapkan dapat meningkatkan keamanan informasi di Indonesia dan melindungi negara dari ancaman siber yang dapat membahayakan stabilitas dan keamanan nasional.
