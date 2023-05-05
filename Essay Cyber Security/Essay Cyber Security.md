@@ -89,3 +89,29 @@ Direktorat Keamanan Informasi (Kominfo) adalah unit kerja di bawah Kementerian K
 8. Melakukan pengembangan dan pemantauan terhadap teknologi keamanan informasi terbaru.
 
 Direktorat Keamanan Informasi Kemenkominfo juga bekerja sama dengan berbagai lembaga nasional dan internasional untuk meningkatkan keamanan informasi di Indonesia, seperti Kepolisian, BSSN, CERT, dan organisasi internasional seperti ITU dan APEC. Melalui tugas dan fungsinya, Direktorat Keamanan Informasi Kemenkominfo diharapkan dapat meningkatkan keamanan informasi di Indonesia dan melindungi negara dari ancaman siber yang dapat membahayakan stabilitas dan keamanan nasional.
+
+Id-SIRTII/CC adalah lembaga yang bernaung di bawah Kementerian Komunikasi & Informatika Republik Indonesia, dan bertanggung jawab menyediakan lingkungan yang aman untuk komunikasi berbasis Internet secara nasional. Tanggung jawab dari Indonesia Security Incident Response Team on Internet Infrastructure / Coordination Center (ID-SIRTII/CC) meliputi:
+
+1. Memonitor dan mendeteksi insiden keamanan pada infrastruktur internet di Indonesia.
+2. Memberikan peringatan dini dan tanggapan cepat terhadap serangan keamanan yang terjadi di infrastruktur internet Indonesia.
+3. Menyediakan informasi dan saran keamanan kepada pengguna internet, provider layanan internet, dan pemangku kepentingan terkait keamanan siber.
+4. Mengkoordinasikan respons dan mitigasi terhadap insiden keamanan yang terjadi di infrastruktur internet Indonesia, termasuk memfasilitasi pertukaran informasi antara pemangku kepentingan terkait.
+5. Meningkatkan kesadaran tentang ancaman keamanan siber dan praktik keamanan yang baik melalui pelatihan, publikasi, dan penyuluhan.
+
+Secara umum, ID-SIRTII/CC bertanggung jawab untuk memastikan bahwa infrastruktur internet di Indonesia aman dan terlindungi dari ancaman keamanan siber.
+
+Lembaga Sandi Negara (LSN) Indonesia adalah lembaga yang bertanggung jawab untuk menyelenggarakan kriptografi negara dan keamanan sandi, serta melakukan pengamanan informasi dan komunikasi pemerintah Indonesia. LSN didirikan pada tahun 1946 dengan nama "Chuo Sangi In" oleh pemerintah pendudukan Jepang di Indonesia, dan kemudian diresmikan oleh pemerintah Indonesia pada tahun 1947 dengan nama Lembaga Sandi Negara (LSN).
+
+Tanggung jawab LSN meliputi:
+
+1. Pengembangan teknologi sandi dan kriptografi negara, termasuk pembuatan dan pengembangan algoritma, pengujian keamanan sandi, dan penelitian dalam bidang kriptografi.
+
+2. Penyediaan dan penggunaan sandi yang aman dan terpercaya untuk mengamankan komunikasi dan informasi pemerintah, termasuk mengelola dan memelihara sistem sandi dan infrastruktur kriptografi negara.
+
+3. Pelatihan dan pengembangan sumber daya manusia dalam bidang keamanan informasi dan kriptografi, termasuk penyelenggaraan program pelatihan dan sertifikasi.
+
+4. Penyediaan layanan kriptografi dan keamanan informasi kepada pihak-pihak yang membutuhkan, termasuk pemerintah, militer, dan sektor swasta.
+
+5. Kerja sama dengan lembaga keamanan siber dan intelijen nasional serta lembaga keamanan negara lainnya dalam upaya memerangi kejahatan siber dan memastikan keamanan informasi dan komunikasi nasional.
+
+LSN merupakan lembaga yang sangat penting dalam menjaga keamanan informasi dan komunikasi negara Indonesia. Tugas-tugas LSN sangat krusial dalam melindungi kepentingan nasional, dan LSN juga berperan penting dalam menjaga stabilitas politik dan keamanan nasional.
