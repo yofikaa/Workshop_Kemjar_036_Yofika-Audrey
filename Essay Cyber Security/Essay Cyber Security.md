@@ -115,3 +115,4 @@ Tanggung jawab LSN meliputi:
 5. Kerja sama dengan lembaga keamanan siber dan intelijen nasional serta lembaga keamanan negara lainnya dalam upaya memerangi kejahatan siber dan memastikan keamanan informasi dan komunikasi nasional.
 
 LSN merupakan lembaga yang sangat penting dalam menjaga keamanan informasi dan komunikasi negara Indonesia. Tugas-tugas LSN sangat krusial dalam melindungi kepentingan nasional, dan LSN juga berperan penting dalam menjaga stabilitas politik dan keamanan nasional.
+
