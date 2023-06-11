@@ -11,8 +11,6 @@ LJ D4 Teknik Informatika B
 
 ### A. Legacy Typosquatting
 
-Typosquatting , juga disebut URL hijacking,  sting site, atau fake URL, adalah bentuk cybersquatting , dan kemungkinan brandjacking yang bergantung pada kesalahan seperti kesalahan ketik yang dibuat oleh pengguna Internet saat memasukkan alamat situs web ke dalam browser web. Jika pengguna secara tidak sengaja memasukkan alamat situs web yang salah, mereka dapat diarahkan ke URL apa pun (termasuk situs web alternatif yang dimiliki oleh cybersquatter). Ini bisa merujuk ke goggle.com. Goggle.com adalah situs web berbahaya salah ketik yang bahkan dapat membahayakan komputer Anda dan menghapus ROM Anda dalam 30 detik [[2](https://en.wikipedia.org/wiki/Typosquatting)]. 
-
 1. Langkah pertama kita pergi ke URL berikut http://localhost:3000/ftp 
 
 <img src="img/1.png">
