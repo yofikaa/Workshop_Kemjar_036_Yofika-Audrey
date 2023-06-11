@@ -1,5 +1,5 @@
 <h1>Praktikum Keamanan Jaringan 
-A5 Security Misconfiguration</h1>
+A6 Vulnerable Components</h1>
 
 <img src="img/logo_pens.png">
 
